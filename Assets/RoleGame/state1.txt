@@ -1,0 +1,17 @@
+Vous vous trouvez dans le chateau du compte Dracula.
+Vous avez franchi le grand protail sinistre et sombre
+qui jonche l'avant de cet immense chateau, et vous ne savez
+pas où vous rendre pour trouver le compte et lui infliger
+le coup mortel nécessaire.
+Les villagois comptent sur vous pour en finir avec ce monstre.
+Vous vous trouvez à l'entrée d'un immense corridor
+bordé d'un tapis rouge sang, et vous pouvez appercevoir dans la 
+penombre, sur chaque côté, de magnifiques tableaux et portraits entout genre.
+en face de vous se trouve à moins de 10 mètres, une autre grande porte en bois.
+a l'entrée tout de suite sur votre droite, vous avez une petite porte peinte en vert foncé,
+avec dessus ce qui resemble à un mot cloué dessus.
+
+Allez vous :
+1. Avancer le long du corridor et examiner les tableaux ? 
+2. Continuer à avancer jusqu'à la porte du fond ?
+3. ouvrir la porte sur votre côté ?
